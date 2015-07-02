@@ -1,0 +1,23 @@
+{
+  "name": "suite-ds",
+  "version": "0.0.1",
+  "description": "A suite data space, that is used for storing and retrieving data across many suite apps ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "suite",
+    "js",
+    "ds",
+    "data",
+    "space"
+  ],
+  "author": "MV",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
